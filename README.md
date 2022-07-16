@@ -41,9 +41,21 @@
 
 游戏名|游戏价格|游戏排行
 --|:--:|--:|
-cs free 13
-APEX free 5
+cs|free|13
+APEX|free|5
 
 #### 超链接
 [Bilibili 官网](https://www.bilibili.com/)
+
+#### 插入图片
+![图片](C://Users//12098//Pictures//testMarkdown.jpg)
+
+#### 插入代码片段
+```c
+#include <stdio.h>
+int main()
+{
+	printf("makrdown for c");
+}
+```
 
